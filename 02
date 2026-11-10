@@ -1,0 +1,14 @@
+Assignment 2 – Setup Proof
+1. VS Code
+- VS Code is installed and ready to use.
+- Proof: Add a screenshot of VS Code opening on your computer.
+2. Node.js
+- Node.js is installed and ready to use.
+- Proof: Open a terminal and run node -v.
+- Add a screenshot showing the command and version number.
+3. Live Server
+- The Live Server extension is installed in VS Code.
+- Proof: Open an HTML file, right-click it, and select Open with Live Server.
+- Add a screenshot of the web page opened in your browser.
+Status
+Complete the checks above and add the screenshots as proof. Remove or update any statement that is not true on your computer.
