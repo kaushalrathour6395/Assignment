@@ -1,0 +1,19 @@
+# Assignment 3 – Terminal Navigation Practice Sheet
+
+## Commands and Their Uses
+
+1. `pwd` – Shows the current folder location.
+2. `ls` – Lists files and folders.
+3. `cd foldername` – Opens a folder.
+4. `cd ..` – Goes back to the parent folder.
+5. `mkdir test` – Creates a new folder named `test`.
+6. `clear` – Clears the terminal screen.
+
+## Practice Task
+- Check your current folder.
+- List all files and folders.
+- Create a new folder named `practice`.
+- Open the folder and then go back.
+
+## Conclusion
+These commands help us navigate folders and manage files using the terminal.
