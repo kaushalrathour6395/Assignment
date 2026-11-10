@@ -1,0 +1,20 @@
+ Create a Repository with at Least Three Meaningful Commits
+Git repository is used to store and manage project files. Commits help track changes made to the project.
+Git Commands:
+
+```bash
+git init
+git add .
+git commit -m "Initial project setup"
+
+git add .
+git commit -m "Added HTML structure"
+
+git add .
+git commit -m "Added CSS styling"
+
+git log --oneline
+```
+
+Conclusion: These commands create a Git repository with three meaningful commits to track project changes.
+
