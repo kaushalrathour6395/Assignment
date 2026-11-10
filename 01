@@ -1,1 +1,19 @@
+Assignment 1
 
+What Happens Between Typing a URL and Seeing the Page?
+
+When we type a website address (URL) in a browser and press Enter, these steps happen:
+
+1. Enter the URL: We type the website address in the browser and press Enter.
+
+2. DNS Lookup: DNS changes the website name into an IP address.
+
+3. Connection: The browser connects to the website server.
+
+4. HTTP Request: The browser asks the server for website data.
+
+5. Server Response: The server sends files like HTML, CSS, and JavaScript.
+
+6. Rendering: The browser processes these files and shows the web page on the screen.
+
+Conclusion: These steps help the browser open and display a website.
